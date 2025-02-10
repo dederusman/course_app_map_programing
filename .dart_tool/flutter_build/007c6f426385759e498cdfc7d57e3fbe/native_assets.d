@@ -1,0 +1,1 @@
+ D:\\UAS\ SEMESTER\ 5\\Dederusman_uas_pm\\app_course\\course_app\\.dart_tool\\flutter_build\\007c6f426385759e498cdfc7d57e3fbe\\native_assets.yaml: 

@@ -1,0 +1,1 @@
+ C:\\Dederusman_uas_pemogramanmobile\\course_app\\.dart_tool\\flutter_build\\60254a333ad499bdd4b2e328b67f6cb1\\native_assets.yaml: 
