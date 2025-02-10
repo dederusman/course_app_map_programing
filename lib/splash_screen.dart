@@ -29,7 +29,7 @@ class _SplashScreenState extends State<SplashScreen> {
             Icon(Icons.flutter_dash, size: 100, color: Colors.white),
             SizedBox(height: 20),
             Text(
-              'Welcome to MyApp',
+              'Course Programing',
               style: TextStyle(fontSize: 24, color: Colors.white),
             ),
           ],
